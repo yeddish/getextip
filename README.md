@@ -1,2 +1,2 @@
 # getextip
-wget -q --output-document - ifconfig.me
+wget -q --output-document - ifconfig.me/ip
